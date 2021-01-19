@@ -1,8 +1,0 @@
-freeprecess.m 子程序，建立驰豫矩阵
-rotxn.m 子程序，x方向发射某脉冲时，存在off resonance，绕着x-z构成的有效轴旋转矩阵
-rotyn.m 子程序，x方向发射某脉冲时，存在off resonance，绕着y-z构成的有效轴旋转矩阵
-cpmgonresonance.m 可执行程序，模拟正常的CPMG
-cpmgoffresonance.m 可执行程序 不考虑脉宽影响的off resonance 模拟
-offcpmg.m 子程序，考虑脉宽影响的off resonance模拟
-程序完整可用
-gexinmin2002 2019/06/11 usa
